@@ -1,0 +1,37 @@
+<pet-characters>
+    <pet-character id="1" name="孤独" atk="1.1" def="0.9" sp-atk="1" sp-def="1" spd="1" hp="1"/>
+    <pet-character id="2" name="固执" atk="1.1" def="1" sp-atk="0.9" sp-def="1" spd="1" hp="1"/>
+    <pet-character id="3" name="调皮" atk="1.1" def="1" sp-atk="1" sp-def="0.9" spd="1" hp="1"/>
+    <pet-character id="4" name="勇敢" atk="1.1" def="1" sp-atk="1" sp-def="1" spd="0.9" hp="1"/>
+    <pet-character id="5" name="大胆" atk="0.9" def="1.1" sp-atk="1" sp-def="1" spd="1" hp="1"/>
+    <pet-character id="6" name="顽皮" atk="1" def="1.1" sp-atk="0.9" sp-def="1" spd="1" hp="1"/>
+    <pet-character id="7" name="无虑" atk="1" def="1.1" sp-atk="1" sp-def="0.9" spd="1" hp="1"/>
+    <pet-character id="8" name="悠闲" atk="1" def="1.1" sp-atk="1" sp-def="1" spd="0.9" hp="1"/>
+    <pet-character id="9" name="保守" atk="0.9" def="1" sp-atk="1.1" sp-def="1" spd="1" hp="1"/>
+    <pet-character id="10" name="稳重" atk="1" def="0.9" sp-atk="1.1" sp-def="1" spd="1" hp="1"/>
+    <pet-character id="11" name="马虎" atk="1" def="1" sp-atk="1.1" sp-def="0.9" spd="1" hp="1"/>
+    <pet-character id="12" name="冷静" atk="1" def="1" sp-atk="1.1" sp-def="1" spd="0.9" hp="1"/>
+    <pet-character id="13" name="沉着" atk="0.9" def="1" sp-atk="1" sp-def="1.1" spd="1" hp="1"/>
+    <pet-character id="14" name="温顺" atk="1" def="0.9" sp-atk="1" sp-def="1.1" spd="1" hp="1"/>
+    <pet-character id="15" name="慎重" atk="1" def="1" sp-atk="0.9" sp-def="1.1" spd="1" hp="1"/>
+    <pet-character id="16" name="狂妄" atk="1" def="1" sp-atk="1" sp-def="1.1" spd="0.9" hp="1"/>
+    <pet-character id="17" name="胆小" atk="0.9" def="1" sp-atk="1" sp-def="1" spd="1.1" hp="1"/>
+    <pet-character id="18" name="急躁" atk="1" def="0.9" sp-atk="1" sp-def="1" spd="1.1" hp="1"/>
+    <pet-character id="19" name="开朗" atk="1" def="1" sp-atk="0.9" sp-def="1" spd="1.1" hp="1"/>
+    <pet-character id="20" name="天真" atk="1" def="1" sp-atk="1" sp-def="0.9" spd="1.1" hp="1"/>
+    <pet-character id="21" name="害羞" atk="1" def="1" sp-atk="1" sp-def="1" spd="1" hp="1"/>
+    <pet-character id="22" name="实干" atk="1" def="1" sp-atk="1" sp-def="1" spd="1" hp="1"/>
+    <pet-character id="23" name="坦率" atk="1" def="1" sp-atk="1" sp-def="1" spd="1" hp="1"/>
+    <pet-character id="24" name="浮躁" atk="1" def="1" sp-atk="1" sp-def="1" spd="1" hp="1"/>
+    <pet-character id="25" name="认真" atk="1" def="1" sp-atk="1" sp-def="1" spd="1" hp="1"/>
+    <pet-character id="26" name="孤傲" atk="1.1" def="1.1" sp-atk="0.9" sp-def="0.9" spd="1" hp="1"/>
+    <pet-character id="27" name="直率" atk="1.1" def="0.9" sp-atk="1.1" sp-def="0.9" spd="1" hp="1"/>
+    <pet-character id="28" name="古怪" atk="1.1" def="0.9" sp-atk="0.9" sp-def="1.1" spd="1" hp="1"/>
+    <pet-character id="29" name="狂野" atk="1.1" def="0.9" sp-atk="1" sp-def="0.9" spd="1.1" hp="1"/>
+    <pet-character id="30" name="清纯" atk="0.9" def="1.1" sp-atk="1.1" sp-def="0.9" spd="1" hp="1"/>
+    <pet-character id="31" name="温柔" atk="0.9" def="1.1" sp-atk="0.9" sp-def="1.1" spd="1" hp="1"/>
+    <pet-character id="32" name="活泼" atk="0.9" def="1.1" sp-atk="0.9" sp-def="1" spd="1.1" hp="1"/>
+    <pet-character id="33" name="仁慈" atk="0.9" def="0.9" sp-atk="1.1" sp-def="1.1" spd="1" hp="1"/>
+    <pet-character id="34" name="忧郁" atk="1" def="0.9" sp-atk="1.1" sp-def="0.9" spd="1.1" hp="1"/>
+    <pet-character id="35" name="可爱" atk="0.9" def="1" sp-atk="0.9" sp-def="1.1" spd="1.1" hp="1"/>
+</pet-characters>

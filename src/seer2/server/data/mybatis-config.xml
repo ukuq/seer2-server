@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <properties>
+        <property name="driver" value="com.mysql.cj.jdbc.Driver"/>
+        <property name="url" value="jdbc:mysql://gz-cynosdbmysql-grp-0fub0ifv.sql.tencentcdb.com:20743/seer2"/>
+        <property name="username" value="tester"/>
+        <property name="password" value="12345678a?"/>
+    </properties>
+    <typeAliases>
+        <typeAlias alias="UserData" type="seer2.server.data.UserData"/>
+    </typeAliases>
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="${driver}"/>
+                <property name="url" value="${url}"/>
+                <property name="username" value="${username}"/>
+                <property name="password" value="${password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+    <mappers>
+        <mapper resource="seer2/server/data/UserMapper.xml"/>
+    </mappers>
+</configuration>

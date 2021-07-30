@@ -1,0 +1,32 @@
+<skills>
+    <!--降低对面属性-->
+    <skill id="10003" type="general" value="2 0 -1"/>
+    <skill id="10009" type="general" value="1 1 +1 1 3 +1"/>
+
+
+    <!--先后制-->
+    <skill id="10169" type="general" value="17 +10000 1"/>
+    <skill id="10618" type="general" value="17 -10000 1"/>
+
+
+    <!--回血-->
+    <skill id="10036" type="general" value="5 +1 4"/>
+
+    <!--消除对方怒气20-->
+    <skill id="10007" type="general" value="10 -20 0"/>
+
+
+    <!--弱点标记-->
+    <skill id="10004" type="skill" value="1"/>
+    <skill id="10005" type="skill" value="1"/>
+    <skill id="10008" type="skill" value="1"/>
+    <skill id="10011" type="skill" value="1"/>
+    <skill id="10016" type="skill" value="1"/>
+
+    <!--harmful-->
+    <skill id="10015" type="general" value="14 1000 3"/>
+    <skill id="10057" type="general" value="14 1 2"/>
+
+    <skill id="1" type="skill" value="2"/>
+    <skill id="1000" type="skill" value="2"/>
+</skills>

@@ -1,0 +1,12 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="seer2.server">
+    <select id="getUserById" resultType="UserData">
+		select * from user where uid=#{uid}
+	</select>
+	<select id="getPetByIdTime" resultType="PetData">
+		select * from pet where uid=#{uid} and catchTime=#{catchTime}
+	</select>
+</mapper>
